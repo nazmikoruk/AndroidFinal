@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/GKHN/Android Projeler/FirebaseChat/app/src/main/res/drawable/bg_input_cursor.xml" value="0.37083333333333335" />
+        <entry key="..\:/GKHN/Android Projeler/FirebaseChat/app/src/main/res/drawable/bg_input_cursor_2.xml" value="0.37083333333333335" />
+        <entry key="..\:/GKHN/Android Projeler/FirebaseChat/app/src/main/res/drawable/bt_shape_2.xml" value="0.37083333333333335" />
+        <entry key="..\:/GKHN/Android Projeler/FirebaseChat/app/src/main/res/drawable/circle_background.xml" value="0.37083333333333335" />
+        <entry key="..\:/GKHN/Android Projeler/FirebaseChat/app/src/main/res/layout/activity_add_group.xml" value="0.19739583333333333" />
+        <entry key="..\:/GKHN/Android Projeler/FirebaseChat/app/src/main/res/layout/activity_chat.xml" value="0.19739583333333333" />
+        <entry key="..\:/GKHN/Android Projeler/FirebaseChat/app/src/main/res/layout/activity_login.xml" value="0.19739583333333333" />
+        <entry key="..\:/GKHN/Android Projeler/FirebaseChat/app/src/main/res/layout/activity_main.xml" value="0.19739583333333333" />
+        <entry key="..\:/GKHN/Android Projeler/FirebaseChat/app/src/main/res/layout/activity_register.xml" value="0.19739583333333333" />
+        <entry key="..\:/GKHN/Android Projeler/FirebaseChat/app/src/main/res/layout/content_main.xml" value="0.19739583333333333" />
+        <entry key="..\:/GKHN/Android Projeler/FirebaseChat/app/src/main/res/layout/dialog_edit_username.xml" value="0.19739583333333333" />
+        <entry key="..\:/GKHN/Android Projeler/FirebaseChat/app/src/main/res/layout/fragment_group.xml" value="0.19739583333333333" />
+        <entry key="..\:/GKHN/Android Projeler/FirebaseChat/app/src/main/res/layout/fragment_info.xml" value="0.1" />
+        <entry key="..\:/GKHN/Android Projeler/FirebaseChat/app/src/main/res/layout/fragment_people.xml" value="0.19739583333333333" />
+        <entry key="..\:/GKHN/Android Projeler/FirebaseChat/app/src/main/res/layout/list_info_item_layout.xml" value="0.19739583333333333" />
+        <entry key="..\:/GKHN/Android Projeler/FirebaseChat/app/src/main/res/layout/rc_item_add_friend.xml" value="0.19739583333333333" />
+        <entry key="..\:/GKHN/Android Projeler/FirebaseChat/app/src/main/res/layout/rc_item_friend.xml" value="0.19739583333333333" />
+        <entry key="..\:/GKHN/Android Projeler/FirebaseChat/app/src/main/res/layout/rc_item_group.xml" value="0.19739583333333333" />
+        <entry key="..\:/GKHN/Android Projeler/FirebaseChat/app/src/main/res/layout/rc_item_message_friend.xml" value="0.19739583333333333" />
+        <entry key="..\:/GKHN/Android Projeler/FirebaseChat/app/src/main/res/layout/rc_item_message_user.xml" value="0.19739583333333333" />
+        <entry key="..\:/GKHN/Android Projeler/app/src/main/res/layout/activity_add_group.xml" value="0.23097826086956522" />
+        <entry key="..\:/GKHN/Android Projeler/app/src/main/res/menu/menu_main.xml" value="0.2609375" />
+        <entry key="..\:/Users/Games/Desktop/FirebaseChat/FirebaseChat/app/src/main/res/drawable/bg_input_cursor.xml" value="0.1" />
+        <entry key="..\:/Users/Games/Desktop/FirebaseChat/FirebaseChat/app/src/main/res/drawable/bg_input_cursor_2.xml" value="0.1" />
+        <entry key="..\:/Users/Games/Desktop/FirebaseChat/FirebaseChat/app/src/main/res/drawable/bt_shape.xml" value="0.1" />
+        <entry key="..\:/Users/Games/Desktop/FirebaseChat/FirebaseChat/app/src/main/res/drawable/bt_shape_2.xml" value="0.1" />
+        <entry key="..\:/Users/Games/Desktop/FirebaseChat/FirebaseChat/app/src/main/res/drawable/rounded_textview.xml" value="0.1" />
+        <entry key="..\:/Users/Games/Desktop/FirebaseChat/FirebaseChat/app/src/main/res/drawable/selector_bg_edit.xml" value="0.1" />
+        <entry key="..\:/Users/Games/Desktop/FirebaseChat/FirebaseChat/app/src/main/res/drawable/selector_bg_edit_2.xml" value="0.1" />
+        <entry key="..\:/Users/Games/Desktop/FirebaseChat/FirebaseChat/app/src/main/res/drawable/state_list_animator_z.xml" value="0.1" />
+        <entry key="..\:/Users/Games/Desktop/FirebaseChat/FirebaseChat/app/src/main/res/layout/activity_add_group.xml" value="0.2421875" />
+        <entry key="..\:/Users/Games/Desktop/FirebaseChat/FirebaseChat/app/src/main/res/layout/activity_chat.xml" value="0.2421875" />
+        <entry key="..\:/Users/Games/Desktop/FirebaseChat/FirebaseChat/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/Games/Desktop/FirebaseChat/FirebaseChat/app/src/main/res/layout/activity_main.xml" value="0.2421875" />
+        <entry key="..\:/Users/Games/Desktop/FirebaseChat/FirebaseChat/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Users/Games/Desktop/FirebaseChat/FirebaseChat/app/src/main/res/layout/content_main.xml" value="0.2421875" />
+        <entry key="..\:/Users/Games/Desktop/FirebaseChat/FirebaseChat/app/src/main/res/layout/dialog_edit_username.xml" value="0.2421875" />
+        <entry key="..\:/Users/Games/Desktop/FirebaseChat/FirebaseChat/app/src/main/res/layout/fragment_group.xml" value="0.2421875" />
+        <entry key="..\:/Users/Games/Desktop/FirebaseChat/FirebaseChat/app/src/main/res/layout/fragment_info.xml" value="0.2421875" />
+        <entry key="..\:/Users/Games/Desktop/FirebaseChat/FirebaseChat/app/src/main/res/layout/fragment_people.xml" value="0.2421875" />
+        <entry key="..\:/Users/Games/Desktop/FirebaseChat/FirebaseChat/app/src/main/res/layout/list_info_item_layout.xml" value="0.2421875" />
+        <entry key="..\:/Users/Games/Desktop/FirebaseChat/FirebaseChat/app/src/main/res/layout/rc_item_add_friend.xml" value="0.2421875" />
+        <entry key="..\:/Users/Games/Desktop/FirebaseChat/FirebaseChat/app/src/main/res/layout/rc_item_friend.xml" value="0.2421875" />
+        <entry key="..\:/Users/Games/Desktop/FirebaseChat/FirebaseChat/app/src/main/res/layout/rc_item_group.xml" value="0.2421875" />
+        <entry key="..\:/Users/Games/Desktop/FirebaseChat/FirebaseChat/app/src/main/res/layout/rc_item_message_friend.xml" value="0.2421875" />
+        <entry key="..\:/Users/Games/Desktop/FirebaseChat/FirebaseChat/app/src/main/res/layout/rc_item_message_user.xml" value="0.2421875" />
+        <entry key="..\:/Users/Games/Desktop/FirebaseChat/FirebaseChat/app/src/main/res/menu/menu_main.xml" value="0.24739583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MesajUygulamasi</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="about">Hakkinda</string>
+    <string name="login_success">Giriş Başarılı</string>
+    <string name="login">Giriş Yap</string>
+    <string name="Username">Email</string>
+    <string name="Password">Şifre</string>
+    <string name="forgot_your_password">Şifreni mi unuttun ?</string>
+    <string name="go">Giriş</string>
+    <string name="repeat_password">Şifreyi Tekrar Yazınız</string>
+    <string name="next">İleri</string>
+    <string name="register">Kayıt Ol</string>
+
+    <string name="hint_username">Kullanıcı Adı Giriniz</string>
+    <string name="hint_email_reset">Mail Adresi Giriniz</string>
+    <string name="enter_group_name">Grup Adı Giriniz</string>
+</resources>
